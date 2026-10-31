@@ -1,0 +1,201 @@
+case_id,query,length,case_type,expected_match,variant_type,rationale
+L02-01,Ly,2,positive,Li,transliteration,Vietnamese and older romanization of the Chinese surname Li
+L02-02,Vu,2,positive,Wu,transliteration,Vietnamese reading of the same Chinese surname
+L02-03,Go,2,positive,Ko,transliteration,Alternate romanization of the Korean surname Ko
+L02-04,Au,2,positive,Ou,transliteration,Cantonese romanization of the surname Ou
+L02-05,So,2,positive,Su,transliteration,Cantonese romanization of the surname Su
+L02-06,Ky,2,positive,Ki,phonetic_respelling,Same sound written with y
+L02-07,Py,2,positive,Pi,phonetic_respelling,Same sound written with y
+L02-08,Oz,2,negative,,unrelated,No list name sounds like oz
+L02-09,Ix,2,negative,,unrelated,No list name sounds like ix
+L02-10,Uz,2,negative,,unrelated,No list name sounds like uz
+L03-01,Lam,3,positive,Lin,transliteration,Cantonese romanization of the surname Lin
+L03-02,Kym,3,positive,Kim,spelling_variant,Alternate spelling with the same sound
+L03-03,Rae,3,positive,Ray,spelling_variant,Established variant of the same name
+L03-04,Aly,3,positive,Ali,spelling_variant,Alternate spelling of the Arabic name Ali
+L03-05,Kao,3,positive,Cao,transliteration,Wade-Giles romanization of the surname Cao
+L03-06,Lau,3,positive,Liu,transliteration,Cantonese romanization of the surname Liu
+L03-07,Joe,3,positive,Jo,spelling_variant,Same given name with a silent e
+L03-08,Nix,3,negative,,unrelated,No list name sounds like nix
+L03-09,Bly,3,negative,,unrelated,No list name sounds like bly
+L03-10,Zug,3,negative,,unrelated,No list name sounds like zug
+L04-01,Kohn,4,positive,Cohen,spelling_variant,Established variant of the surname Cohen
+L04-02,Dias,4,positive,Diaz,spelling_variant,Portuguese spelling of the same surname
+L04-03,Kats,4,positive,Katz,phonetic_respelling,Spelled the way it sounds
+L04-04,Chan,4,positive,Chen,transliteration,Cantonese romanization of the surname Chen
+L04-05,Wong,4,positive,Wang,transliteration,Cantonese romanization of the surname Wang
+L04-06,Choy,4,positive,Choi,spelling_variant,Alternate spelling of the Korean surname Choi
+L04-07,Levi,4,positive,Levy,spelling_variant,Established variant of the same surname
+L04-08,Bolt,4,negative,,unrelated,No list name sounds like bolt
+L04-09,Tuck,4,negative,,unrelated,No list name sounds like tuck
+L04-10,Fisk,4,negative,,unrelated,No list name sounds like fisk
+L05-01,Smyth,5,positive,Smith,spelling_variant,Established variant of the surname Smith
+L05-02,Haque,5,positive,Haq,transliteration,Alternate romanization of the same Arabic name
+L05-03,Mayer,5,positive,Meyer,spelling_variant,Established variant of the same German surname
+L05-04,Lopes,5,positive,Lopez,spelling_variant,Portuguese spelling of the same surname
+L05-05,Kline,5,positive,Klein,spelling_variant,Americanized spelling of Klein
+L05-06,Chang,5,positive,Zhang,transliteration,Wade-Giles romanization of the surname Zhang
+L05-07,Ahmad,5,positive,Ahmed,transliteration,Alternate romanization of the same Arabic name
+L05-08,Drake,5,negative,,unrelated,No list name sounds like drake
+L05-09,Quill,5,negative,,unrelated,No list name sounds like quill
+L05-10,Thorn,5,negative,,unrelated,No list name sounds like thorn
+L06-01,Shmidt,6,positive,Schmidt,phonetic_respelling,Spelled the way it sounds
+L06-02,Tailor,6,positive,Taylor,phonetic_respelling,Spelled the way it sounds
+L06-03,Martyn,6,positive,Martin,spelling_variant,Established variant of the same name
+L06-04,Garsia,6,positive,Garcia,phonetic_respelling,Spelled the way it sounds
+L06-05,Millar,6,positive,Miller,spelling_variant,Scottish spelling of the same surname
+L06-06,Torrez,6,positive,Torres,spelling_variant,Established variant of the same surname
+L06-07,Bekker,6,positive,Becker,spelling_variant,Dutch spelling of the same surname
+L06-08,Pruitt,6,negative,,unrelated,No list name sounds like pruitt
+L06-09,Thorpe,6,negative,,unrelated,No list name sounds like thorpe
+L06-10,Upshaw,6,negative,,unrelated,No list name sounds like upshaw
+L07-01,Mueller,7,positive,Muller,spelling_variant,Umlaut written as ue
+L07-02,Johnsen,7,positive,Johnson,spelling_variant,Scandinavian spelling of the same surname
+L07-03,Sanches,7,positive,Sanchez,spelling_variant,Portuguese spelling of the same surname
+L07-04,Ebrahim,7,positive,Ibrahim,transliteration,Persian-style romanization of the same name
+L07-05,Mahmood,7,positive,Mahmoud,transliteration,South Asian romanization of the same name
+L07-06,Mostafa,7,positive,Mustafa,transliteration,Egyptian romanization of the same name
+L07-07,Vozniak,7,positive,Wozniak,phonetic_respelling,Polish w written as it sounds
+L07-08,Whitley,7,negative,,unrelated,No list name sounds like whitley
+L07-09,Ogilvie,7,negative,,unrelated,No list name sounds like ogilvie
+L07-10,Blakely,7,negative,,unrelated,No list name sounds like blakely
+L08-01,Kovalski,8,positive,Kowalski,phonetic_respelling,Polish w written as it sounds
+L08-02,Goldburg,8,positive,Goldberg,spelling_variant,Established variant of the same surname
+L08-03,Martines,8,positive,Martinez,spelling_variant,Portuguese spelling of the same surname
+L08-04,Gonzales,8,positive,Gonzalez,spelling_variant,Established variant of the same surname
+L08-05,Muhammad,8,positive,Mohammed,transliteration,Standard romanization of the same Arabic name
+L08-06,Freedman,8,positive,Friedman,spelling_variant,Anglicized spelling of the same surname
+L08-07,Horovitz,8,positive,Horowitz,transliteration,Hebrew-style romanization of the same surname
+L08-08,Holloway,8,negative,,unrelated,No list name sounds like holloway
+L08-09,Thornton,8,negative,,unrelated,No list name sounds like thornton
+L08-10,Bradshaw,8,negative,,unrelated,No list name sounds like bradshaw
+L09-01,Rodrigues,9,positive,Rodriguez,spelling_variant,Portuguese spelling of the same surname
+L09-02,Hernandes,9,positive,Hernandez,spelling_variant,Portuguese spelling of the same surname
+L09-03,Fernandes,9,positive,Fernandez,spelling_variant,Portuguese spelling of the same surname
+L09-04,Gutierres,9,positive,Gutierrez,spelling_variant,Portuguese spelling of the same surname
+L09-05,Rozenthal,9,positive,Rosenthal,phonetic_respelling,Spelled the way it sounds
+L09-06,Goldsteen,9,positive,Goldstein,phonetic_respelling,Spelled the way it sounds
+L09-07,Mookerjee,9,positive,Mukherjee,spelling_variant,Older anglicized spelling of the same surname
+L09-08,Underhill,9,negative,,unrelated,No list name sounds like underhill
+L09-09,Blackmore,9,negative,,unrelated,No list name sounds like blackmore
+L09-10,Dalrymple,9,negative,,unrelated,No list name sounds like dalrymple
+L10-01,Rabinovitz,10,positive,Rabinowitz,transliteration,Hebrew-style romanization of the same surname
+L10-02,Mandelboim,10,positive,Mandelbaum,spelling_variant,Yiddish spelling of the same surname
+L10-03,Abramovitz,10,positive,Abramowitz,transliteration,Hebrew-style romanization of the same surname
+L10-04,Novakovski,10,positive,Nowakowski,phonetic_respelling,Polish w written as it sounds
+L10-05,Vishnevsky,10,positive,Wisniewski,transliteration,Russian form of the same Polish surname
+L10-06,Echevarria,10,positive,Echeverria,spelling_variant,Established variant of the same Basque surname
+L10-07,Malinovsky,10,positive,Malinowski,transliteration,Russian-style romanization of the same surname
+L10-08,Hargreaves,10,negative,,unrelated,No list name sounds like hargreaves
+L10-09,Kilpatrick,10,negative,,unrelated,No list name sounds like kilpatrick
+L10-10,Waterhouse,10,negative,,unrelated,No list name sounds like waterhouse
+L11-01,Oppenhaimer,11,positive,Oppenheimer,phonetic_respelling,Spelled the way it sounds
+L11-02,Levandovsky,11,positive,Lewandowski,transliteration,Russian-style romanization of the same surname
+L11-03,Finkelsteyn,11,positive,Finkelstein,phonetic_respelling,Spelled the way it sounds
+L11-04,Kviatkovsky,11,positive,Kwiatkowski,transliteration,Russian-style romanization of the same surname
+L11-05,Tomashevsky,11,positive,Tomaszewski,transliteration,Russian-style romanization of the same surname
+L11-06,Subramaniam,11,positive,Subramanian,spelling_variant,Tamil spelling of the same name
+L11-07,Cobarrubias,11,positive,Covarrubias,spelling_variant,Established variant of the same Spanish surname
+L11-08,Sherrington,11,negative,,unrelated,No list name sounds like sherrington
+L11-09,Weatherford,11,negative,,unrelated,No list name sounds like weatherford
+L11-10,Fitzherbert,11,negative,,unrelated,No list name sounds like fitzherbert
+L12-01,Vitgenshtein,12,positive,Wittgenstein,transliteration,Russian-style romanization of the same surname
+L12-02,Kirschenboim,12,positive,Kirschenbaum,spelling_variant,Yiddish spelling of the same surname
+L12-03,Papadopolous,12,positive,Papadopoulos,phonetic_respelling,Common respelling with the same sound
+L12-04,Rakhmaninoff,12,positive,Rachmaninoff,transliteration,Alternate romanization of the same Russian surname
+L12-05,Constantinov,12,positive,Konstantinov,spelling_variant,Same name with c for k
+L12-06,Solschenizyn,12,positive,Solzhenitsyn,transliteration,German romanization of the same Russian surname
+L12-07,Schopenhower,12,positive,Schopenhauer,phonetic_respelling,Spelled the way it sounds
+L12-08,Thorneycroft,12,negative,,unrelated,No list name sounds like thorneycroft
+L12-09,Breckinridge,12,negative,,unrelated,No list name sounds like breckinridge
+L12-10,Cruickshanks,12,negative,,unrelated,No list name sounds like cruickshanks
+L13-01,Wojciechowsky,13,positive,Wojciechowski,spelling_variant,Same surname with a y ending
+L13-02,Chandrashekar,13,positive,Chandrasekhar,spelling_variant,Established variant of the same name
+L13-03,Parthasarathi,13,positive,Parthasarathy,spelling_variant,Established variant of the same name
+L13-04,Molina-Kampos,13,positive,Molina-Campos,phonetic_respelling,Second surname spelled the way it sounds
+L13-05,Thakur-Pandia,13,positive,Thakur-Pandya,phonetic_respelling,Second surname spelled the way it sounds
+L13-06,Korrea-Duarte,13,positive,Correa-Duarte,phonetic_respelling,First surname spelled the way it sounds
+L13-07,Juarez-Valdes,13,positive,Juarez-Valdez,spelling_variant,Established variant of the second surname
+L13-08,Kettleborough,13,negative,,unrelated,No list name sounds like kettleborough
+L13-09,Lloyd-Webster,13,negative,,unrelated,No list name sounds like lloyd webster
+L13-10,Ashby-Wetmore,13,negative,,unrelated,No list name sounds like ashby wetmore
+L14-01,Thistlethwayte,14,positive,Thistlethwaite,spelling_variant,Established variant of the same surname
+L14-02,Constantinidis,14,positive,Konstantinidis,spelling_variant,Same Greek surname with c for k
+L14-03,Socorro Mendes,14,positive,Socorro Mendez,spelling_variant,Portuguese spelling of the surname
+L14-04,Fabrice Dupond,14,positive,Fabrice Dupont,spelling_variant,Established variant of the surname
+L14-05,Lakshmi Sircar,14,positive,Lakshmi Sarkar,spelling_variant,Older anglicized spelling of the surname
+L14-06,Wladimir Popov,14,positive,Vladimir Popov,transliteration,German-style romanization of the given name
+L14-07,Wojciech Orlow,14,positive,Wojciech Orlov,transliteration,Polish-style romanization of the surname
+L14-08,Blennerhassett,14,negative,,unrelated,No list name sounds like blennerhassett
+L14-09,Hayward-Coombs,14,negative,,unrelated,No list name sounds like hayward coombs
+L14-10,Ingleby-Mackay,14,negative,,unrelated,No list name sounds like ingleby mackay
+L15-01,Marques-Navarro,15,positive,Marquez-Navarro,spelling_variant,Portuguese spelling of the first surname
+L15-02,Fuentes-Rozales,15,positive,Fuentes-Rosales,phonetic_respelling,Second surname spelled the way it sounds
+L15-03,Cabrera-Pereyra,15,positive,Cabrera-Pereira,spelling_variant,Spanish spelling of the second surname
+L15-04,Darvish-Sabbagh,15,positive,Darwish-Sabbagh,transliteration,Persian-style romanization of the first surname
+L15-05,Almeyda-Ribeiro,15,positive,Almeida-Ribeiro,spelling_variant,Spanish spelling of the first surname
+L15-06,Masahiro Huzita,15,positive,Masahiro Fujita,transliteration,Kunrei romanization of the surname Fujita
+L15-07,Concepsion Soto,15,positive,Concepcion Soto,phonetic_respelling,Given name spelled the way it sounds
+L15-08,Pemberton-Hales,15,negative,,unrelated,No list name sounds like pemberton hales
+L15-09,Thorogood-Plumb,15,negative,,unrelated,No list name sounds like thorogood plumb
+L15-10,Plaistow-Keddie,15,negative,,unrelated,No list name sounds like plaistow keddie
+L16-01,Khadeeja Mansour,16,positive,Khadijah Mansour,transliteration,Alternate romanization of the given name
+L16-02,Rajendra Kothary,16,positive,Rajendra Kothari,spelling_variant,Same surname with a y ending
+L16-03,Elisabeth Parker,16,positive,Elizabeth Parker,spelling_variant,European spelling of the given name
+L16-04,Volfgang Baumann,16,positive,Wolfgang Baumann,phonetic_respelling,Given name spelled the way it sounds
+L16-05,Fernando Salasar,16,positive,Fernando Salazar,phonetic_respelling,Surname spelled the way it sounds
+L16-06,Catherine Cooper,16,positive,Katherine Cooper,spelling_variant,Established variant of the given name
+L16-07,Sigfried Krueger,16,positive,Siegfried Kruger,spelling_variant,Variant spellings of both names
+L16-08,Ashcombe-Tufnell,16,negative,,unrelated,No list name sounds like ashcombe tufnell
+L16-09,Hortense Quigley,16,negative,,unrelated,No list name sounds like hortense quigley
+L16-10,Garstang-Pilling,16,negative,,unrelated,No list name sounds like garstang pilling
+L17-01,Vasilyev-Korsakov,17,positive,Vasiliev-Korsakov,transliteration,Alternate romanization of the first surname
+L17-02,Carrillo-Kalderon,17,positive,Carrillo-Calderon,phonetic_respelling,Second surname spelled the way it sounds
+L17-03,Baptista-Teixeira,17,positive,Bautista-Teixeira,spelling_variant,Portuguese spelling of the first surname
+L17-04,Ericsson-Karlsson,17,positive,Eriksson-Karlsson,spelling_variant,Established variant of the first surname
+L17-05,Mordekhai Epstein,17,positive,Mordechai Epstein,transliteration,Alternate romanization of the Hebrew given name
+L17-06,Esperanza Gimenez,17,positive,Esperanza Jimenez,spelling_variant,Established variant of the surname
+L17-07,Nasreddine Khouri,17,positive,Nasreddine Khoury,transliteration,Alternate romanization of the surname
+L17-08,Barnaby Ottershaw,17,negative,,unrelated,No list name sounds like barnaby ottershaw
+L17-09,Winstanley-Hewitt,17,negative,,unrelated,No list name sounds like winstanley hewitt
+L17-10,Lucinda Pockridge,17,negative,,unrelated,No list name sounds like lucinda pockridge
+L18-01,Ivanov-Kudriavtsev,18,positive,Ivanov-Kudryavtsev,transliteration,Alternate romanization of the second surname
+L18-02,Volkov-Kalachnikov,18,positive,Volkov-Kalashnikov,transliteration,French romanization of the second surname
+L18-03,Pawlow-Shcherbakov,18,positive,Pavlov-Shcherbakov,transliteration,Polish-style romanization of the first surname
+L18-04,Nussboim-Oppenheim,18,positive,Nussbaum-Oppenheim,spelling_variant,Yiddish spelling of the first surname
+L18-05,Albarado-Mondragon,18,positive,Alvarado-Mondragon,phonetic_respelling,Spanish b and v sound the same
+L18-06,Maximilian Shwartz,18,positive,Maximilian Schwarz,phonetic_respelling,Surname spelled the way it sounds
+L18-07,Sebastien Figueroa,18,positive,Sebastian Figueroa,spelling_variant,French spelling of the given name
+L18-08,Prudence Wetherell,18,negative,,unrelated,No list name sounds like prudence wetherell
+L18-09,Ottoline Throssell,18,negative,,unrelated,No list name sounds like ottoline throssell
+L18-10,Hortensia Bramwell,18,negative,,unrelated,No list name sounds like hortensia bramwell
+L19-01,Steward-Whittingham,19,positive,Stewart-Whittingham,spelling_variant,Established variant of the first surname
+L19-02,Lefkovitz-Moskovitz,19,positive,Lefkowitz-Moskowitz,transliteration,Hebrew-style romanization of both surnames
+L19-03,Cervantes-Velazquez,19,positive,Cervantes-Velasquez,spelling_variant,Established variant of the second surname
+L19-04,Aisenberg-Greenberg,19,positive,Eisenberg-Greenberg,phonetic_respelling,First surname spelled the way it sounds
+L19-05,Kucharsky-Chojnacki,19,positive,Kucharski-Chojnacki,spelling_variant,First surname with a y ending
+L19-06,Edelstein-Fainstein,19,positive,Edelstein-Feinstein,phonetic_respelling,Second surname spelled the way it sounds
+L19-07,Garibaldi-Buonacore,19,positive,Garibaldi-Buonocore,spelling_variant,Established variant of the second surname
+L19-08,Hermione Blenkinsop,19,negative,,unrelated,No list name sounds like hermione blenkinsop
+L19-09,Cuthbert Pilkington,19,negative,,unrelated,No list name sounds like cuthbert pilkington
+L19-10,Pettigrew-Lancaster,19,negative,,unrelated,No list name sounds like pettigrew lancaster
+L20-01,Thompson-Glendenning,20,positive,Thompson-Glendinning,spelling_variant,Established variant of the second surname
+L20-02,Hartman-Weissmueller,20,positive,Hartmann-Weissmuller,spelling_variant,Variant spellings of both surnames
+L20-03,Burnstein-Schoenfeld,20,positive,Bernstein-Schoenfeld,spelling_variant,Anglicized spelling of the first surname
+L20-04,Maldonado-Valladarez,20,positive,Maldonado-Valladares,spelling_variant,Established variant of the second surname
+L20-05,Kuznetzov-Chernyshev,20,positive,Kuznetsov-Chernyshev,phonetic_respelling,First surname spelled the way it sounds
+L20-06,Silberman-Wiesenthal,20,positive,Silverman-Wiesenthal,spelling_variant,German spelling of the first surname
+L20-07,Jankowski-Dostoevski,20,positive,Jankowski-Dostoevsky,transliteration,Alternate romanization of the second surname
+L20-08,Peregrine Ashburnham,20,negative,,unrelated,No list name sounds like peregrine ashburnham
+L20-09,Rosalind Brocklebank,20,negative,,unrelated,No list name sounds like rosalind brocklebank
+L20-10,Henrietta Mossbridge,20,negative,,unrelated,No list name sounds like henrietta mossbridge
+L21-01,Wlodarczyk-Sokolovsky,21,positive,Wlodarczyk-Sokolowski,transliteration,Russian-style romanization of the second surname
+L21-02,Teitelboim-Himmelfarb,21,positive,Teitelbaum-Himmelfarb,spelling_variant,Yiddish spelling of the first surname
+L21-03,Bustamante-Balderrama,21,positive,Bustamante-Valderrama,spelling_variant,Established variant of the second surname
+L21-04,Abdulkader-Abdulhamid,21,positive,Abdelkader-Abdelhamid,transliteration,Alternate romanization of both Arabic names
+L21-05,Kuppuswami-Jayasuriya,21,positive,Kuppuswamy-Jayasuriya,spelling_variant,First surname with an i ending
+L21-06,Nicolaidis-Karamanlis,21,positive,Nikolaidis-Karamanlis,spelling_variant,First surname with c for k
+L21-07,Kalinovski-Wilczynski,21,positive,Kalinowski-Wilczynski,phonetic_respelling,Polish w written as it sounds
+L21-08,Araminta Pennyfeather,21,negative,,unrelated,No list name sounds like araminta pennyfeather
+L21-09,Lavinia Bucklethwaite,21,negative,,unrelated,No list name sounds like lavinia bucklethwaite
+L21-10,Jessamine Ravensworth,21,negative,,unrelated,No list name sounds like jessamine ravensworth

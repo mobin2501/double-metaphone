@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+results/
+Deliverables/
+.env/
+.DS_Store
+Deliverables.zip
+Metadata.rtf
+*.docx
+*.pptx

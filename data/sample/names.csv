@@ -1,0 +1,41 @@
+id,name,origin
+1,Li,east_asian
+2,Ng,east_asian
+3,Kim,east_asian
+4,Ali,arabic
+5,Shah,south_asian
+6,Ruiz,hispanic
+7,Cohen,jewish
+8,Smith,anglo
+9,Romano,italian
+10,Dubois,french
+11,Schmidt,germanic
+12,Mohamed,arabic
+13,Kowalski,slavic
+14,Lefebvre,french
+15,Rodriguez,hispanic
+16,Catherine,anglo
+17,Rabinowitz,jewish
+18,Fitzgerald,anglo
+19,Tchaikovsky,slavic
+20,Christopher,anglo
+21,Garcia-Lopez,hispanic
+22,Van der Berg,germanic
+23,Krishnamurthy,south_asian
+24,Bianchi-Rossi,italian
+25,Schwarzenegger,germanic
+26,Hernandez Cruz,hispanic
+27,Rodriguez-Lopez,hispanic
+28,Bartholomew Lee,anglo
+29,Rabinowitz-Cohen,jewish
+30,Nguyen Van Thanh,east_asian
+31,Abdul Rahman Khan,arabic
+32,Kowalski-Nowakowa,slavic
+33,Jean-Pierre Dubois,french
+34,Fitzgerald Kennedy,anglo
+35,Rodriguez-Hernandez,hispanic
+36,Van der Berg-Jansen,germanic
+37,Christopher Robinson,anglo
+38,Sankaranarayanan Raj,south_asian
+39,Vladislav Tchaikovsky,slavic
+40,Garcia-Lopez Martinez,hispanic

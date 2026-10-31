@@ -1,0 +1,1001 @@
+id,name,origin
+1,Li,east_asian
+2,Ed,anglo
+3,Ek,germanic
+4,Ze,hispanic
+5,Lo,italian
+6,Om,south_asian
+7,Ra,other
+8,Wu,east_asian
+9,Ty,anglo
+10,Sy,other
+11,Ng,east_asian
+12,Jo,anglo
+13,Ba,other
+14,Ip,east_asian
+15,Al,anglo
+16,Ho,east_asian
+17,Ma,east_asian
+18,Xu,east_asian
+19,Hu,east_asian
+20,Lu,east_asian
+21,Yu,east_asian
+22,He,east_asian
+23,Ye,east_asian
+24,Du,east_asian
+25,Fu,east_asian
+26,Gu,east_asian
+27,Su,east_asian
+28,Ko,east_asian
+29,Oh,east_asian
+30,An,east_asian
+31,Im,east_asian
+32,Yi,east_asian
+33,Vo,east_asian
+34,Do,east_asian
+35,Le,east_asian
+36,Ta,east_asian
+37,To,east_asian
+38,Ha,east_asian
+39,Qi,east_asian
+40,Xi,east_asian
+41,Ji,east_asian
+42,Ou,east_asian
+43,Mo,east_asian
+44,Pi,east_asian
+45,Na,east_asian
+46,Ki,east_asian
+47,Ri,east_asian
+48,Pu,east_asian
+49,Mu,east_asian
+50,Ai,east_asian
+51,Kim,east_asian
+52,Cox,anglo
+53,Udo,germanic
+54,Lev,slavic
+55,Paz,hispanic
+56,Ugo,italian
+57,Roy,french
+58,Ali,arabic
+59,Rao,south_asian
+60,Bos,other
+61,Cho,east_asian
+62,Fox,anglo
+63,Ott,germanic
+64,Ivo,slavic
+65,Gil,hispanic
+66,Rey,french
+67,Haq,arabic
+68,Jha,south_asian
+69,Vos,other
+70,Lin,east_asian
+71,Day,anglo
+72,Uwe,germanic
+73,Bak,slavic
+74,Das,south_asian
+75,Kok,other
+76,Sun,east_asian
+77,Hay,anglo
+78,Arp,germanic
+79,Lis,slavic
+80,Sen,south_asian
+81,Obi,other
+82,Liu,east_asian
+83,Ray,anglo
+84,Pal,south_asian
+85,Eze,other
+86,Guo,east_asian
+87,Kay,anglo
+88,Pai,south_asian
+89,Sow,other
+90,Luo,east_asian
+91,Orr,anglo
+92,Rai,south_asian
+93,Koc,other
+94,Xie,east_asian
+95,Ash,anglo
+96,Han,east_asian
+97,Amy,anglo
+98,Cao,east_asian
+99,Ian,anglo
+100,Pan,east_asian
+101,Park,east_asian
+102,Ford,anglo
+103,Koch,germanic
+104,Krol,slavic
+105,Levy,jewish
+106,Diaz,hispanic
+107,Riva,italian
+108,Brun,french
+109,Aziz,arabic
+110,Shah,south_asian
+111,Fall,other
+112,Choi,east_asian
+113,Hunt,anglo
+114,Wolf,germanic
+115,Mroz,slavic
+116,Katz,jewish
+117,Ruiz,hispanic
+118,Sala,italian
+119,Roux,french
+120,Saad,arabic
+121,Seth,south_asian
+122,Diop,other
+123,Chen,east_asian
+124,Ward,anglo
+125,Haas,germanic
+126,Wilk,slavic
+127,Blum,jewish
+128,Sanz,hispanic
+129,Neri,italian
+130,Joly,french
+131,Nour,arabic
+132,Garg,south_asian
+133,Kiss,other
+134,Wang,east_asian
+135,Cole,anglo
+136,Kuhn,germanic
+137,Ilic,slavic
+138,Gold,jewish
+139,Vega,hispanic
+140,Said,arabic
+141,Iyer,south_asian
+142,Papp,other
+143,Yang,east_asian
+144,Webb,anglo
+145,Hess,germanic
+146,Zuev,slavic
+147,Mora,hispanic
+148,Zaki,arabic
+149,Nair,south_asian
+150,Toth,other
+151,Zhang,east_asian
+152,Wells,anglo
+153,Busch,germanic
+154,Novak,slavic
+155,Mintz,jewish
+156,Ojeda,hispanic
+157,Rizzo,italian
+158,Petit,french
+159,Ahmed,arabic
+160,Patel,south_asian
+161,Laine,other
+162,Huang,east_asian
+163,Smith,anglo
+164,Weber,germanic
+165,Mazur,slavic
+166,Rabin,jewish
+167,Baeza,hispanic
+168,Serra,italian
+169,Blanc,french
+170,Hamid,arabic
+171,Singh,south_asian
+172,Okeke,other
+173,Jiang,east_asian
+174,Jones,anglo
+175,Meyer,germanic
+176,Dudek,slavic
+177,Cohen,jewish
+178,Lopez,hispanic
+179,Villa,italian
+180,Faure,french
+181,Faris,arabic
+182,Kumar,south_asian
+183,Nwosu,other
+184,Liang,east_asian
+185,Brown,anglo
+186,Bauer,germanic
+187,Baran,slavic
+188,Adler,jewish
+189,Perez,hispanic
+190,Conte,italian
+191,Morin,french
+192,Farah,arabic
+193,Gupta,south_asian
+194,Keita,other
+195,Zheng,east_asian
+196,Davis,anglo
+197,Klein,germanic
+198,Kozak,slavic
+199,Segal,jewish
+200,Reyes,hispanic
+201,Nguyen,east_asian
+202,Wright,anglo
+203,Seidel,germanic
+204,Lavrov,slavic
+205,Kaplan,jewish
+206,Garcia,hispanic
+207,Basile,italian
+208,Martin,french
+209,Hassan,arabic
+210,Kamath,south_asian
+211,Diallo,other
+212,Truong,east_asian
+213,Taylor,anglo
+214,Muller,germanic
+215,Pawlak,slavic
+216,Siegel,jewish
+217,Torres,hispanic
+218,Grasso,italian
+219,Dubois,french
+220,Khalil,arabic
+221,Sharma,south_asian
+222,Mensah,other
+223,Tanaka,east_asian
+224,Miller,anglo
+225,Wagner,germanic
+226,Sikora,slavic
+227,Lerner,jewish
+228,Flores,hispanic
+229,Fabbri,italian
+230,Durand,french
+231,Haddad,arabic
+232,Pillai,south_asian
+233,Mwangi,other
+234,Suzuki,east_asian
+235,Wilson,anglo
+236,Becker,germanic
+237,Kubiak,slavic
+238,Hirsch,jewish
+239,Rivera,hispanic
+240,Donati,italian
+241,Moreau,french
+242,Nasser,arabic
+243,Chopra,south_asian
+244,Farkas,other
+245,Yamada,east_asian
+246,Walker,anglo
+247,Schulz,germanic
+248,Gorski,slavic
+249,Wexler,jewish
+250,Chavez,hispanic
+251,Shimizu,east_asian
+252,Spencer,anglo
+253,Schmidt,germanic
+254,Wozniak,slavic
+255,Ehrlich,jewish
+256,Sanchez,hispanic
+257,Ferrari,italian
+258,Rolland,french
+259,Ibrahim,arabic
+260,Khurana,south_asian
+261,Adeyemi,other
+262,Hayashi,east_asian
+263,Johnson,anglo
+264,Richter,germanic
+265,Sokolov,slavic
+266,Shapiro,jewish
+267,Ramirez,hispanic
+268,Colombo,italian
+269,Lambert,french
+270,Mahmoud,arabic
+271,Qureshi,south_asian
+272,Boateng,other
+273,Yoshida,east_asian
+274,Roberts,anglo
+275,Lehmann,germanic
+276,Stepien,slavic
+277,Kessler,jewish
+278,Morales,hispanic
+279,Mancini,italian
+280,Mercier,french
+281,Mustafa,arabic
+282,Bukhari,south_asian
+283,Njoroge,other
+284,Okamoto,east_asian
+285,Edwards,anglo
+286,Ziegler,germanic
+287,Nowicki,slavic
+288,Frankel,jewish
+289,Alvarez,hispanic
+290,Moretti,italian
+291,Garnier,french
+292,Youssef,arabic
+293,Agarwal,south_asian
+294,Kariuki,other
+295,Matsuda,east_asian
+296,Collins,anglo
+297,Fischer,germanic
+298,Walczak,slavic
+299,Dreyfus,jewish
+300,Mendoza,hispanic
+301,Nakamura,east_asian
+302,Harrison,anglo
+303,Herrmann,germanic
+304,Kowalski,slavic
+305,Goldberg,jewish
+306,Martinez,hispanic
+307,Esposito,italian
+308,Lefebvre,french
+309,Mohammed,arabic
+310,Siddiqui,south_asian
+311,Meszaros,other
+312,Yamamoto,east_asian
+313,Crawford,anglo
+314,Schuster,germanic
+315,Kaminski,slavic
+316,Friedman,jewish
+317,Gonzalez,hispanic
+318,Giordano,italian
+319,Fournier,french
+320,Abdullah,arabic
+321,Shrestha,south_asian
+322,Szilagyi,other
+323,Watanabe,east_asian
+324,Stephens,anglo
+325,Dietrich,germanic
+326,Krawczyk,slavic
+327,Horowitz,jewish
+328,Castillo,hispanic
+329,Lombardi,italian
+330,Fontaine,french
+331,Suleiman,arabic
+332,Malhotra,south_asian
+333,Donnelly,other
+334,Ishikawa,east_asian
+335,Mitchell,anglo
+336,Pfeiffer,germanic
+337,Majewski,slavic
+338,Gottlieb,jewish
+339,Guerrero,hispanic
+340,Barbieri,italian
+341,Rousseau,french
+342,Fakhoury,arabic
+343,Banerjee,south_asian
+344,Kavanagh,other
+345,Nakajima,east_asian
+346,Campbell,anglo
+347,Hoffmann,germanic
+348,Adamczyk,slavic
+349,Margolis,jewish
+350,Oliveira,hispanic
+351,Kobayashi,east_asian
+352,Carpenter,anglo
+353,Schneider,germanic
+354,Michalski,slavic
+355,Rosenthal,jewish
+356,Rodriguez,hispanic
+357,Marchetti,italian
+358,Chevalier,french
+359,Abdelaziz,arabic
+360,Mukherjee,south_asian
+361,Gallagher,other
+362,Takahashi,east_asian
+363,Armstrong,anglo
+364,Friedrich,germanic
+365,Wieczorek,slavic
+366,Zuckerman,jewish
+367,Hernandez,hispanic
+368,Valentini,italian
+369,Blanchard,french
+370,Benmoussa,arabic
+371,Narayanan,south_asian
+372,Lindqvist,other
+373,Yamaguchi,east_asian
+374,Henderson,anglo
+375,Schreiber,germanic
+376,Jablonski,slavic
+377,Goldstein,jewish
+378,Gutierrez,hispanic
+379,Silvestri,italian
+380,Bourgeois,french
+381,Aboutrika,arabic
+382,Venkatesh,south_asian
+383,Bergstrom,other
+384,Matsumoto,east_asian
+385,Patterson,anglo
+386,Steinmetz,germanic
+387,Olszewski,slavic
+388,Rosenberg,jewish
+389,Fernandez,hispanic
+390,Benedetti,italian
+391,Deschamps,french
+392,Nasrallah,arabic
+393,Ramaswamy,south_asian
+394,Halvorsen,other
+395,Hashimoto,east_asian
+396,Mackenzie,anglo
+397,Gutenberg,germanic
+398,Witkowski,slavic
+399,Weinstein,jewish
+400,Contreras,hispanic
+401,Matsushita,east_asian
+402,Fitzgerald,anglo
+403,Zimmermann,germanic
+404,Nowakowski,slavic
+405,Rabinowitz,jewish
+406,Villarreal,hispanic
+407,Martinelli,italian
+408,Carpentier,french
+409,Abdulkarim,arabic
+410,Chatterjee,south_asian
+411,McLaughlin,other
+412,Takayanagi,east_asian
+413,Montgomery,anglo
+414,Schumacher,germanic
+415,Wisniewski,slavic
+416,Mandelbaum,jewish
+417,Nascimento,hispanic
+418,Pellegrini,italian
+419,Beauregard,french
+420,Benjelloun,arabic
+421,Chaturvedi,south_asian
+422,Sigurdsson,other
+423,Kobayakawa,east_asian
+424,Cunningham,anglo
+425,Hindenburg,germanic
+426,Piotrowski,slavic
+427,Abramowitz,jewish
+428,Figueiredo,hispanic
+429,Pellegrino,italian
+430,Villeneuve,french
+431,Bouteflika,arabic
+432,Srivastava,south_asian
+433,Hamalainen,other
+434,Yamanouchi,east_asian
+435,Richardson,anglo
+436,Rosenkranz,germanic
+437,Wroblewski,slavic
+438,Mendelsohn,jewish
+439,Valenzuela,hispanic
+440,Costantini,italian
+441,Clemenceau,french
+442,Boumediene,arabic
+443,Ramalingam,south_asian
+444,Savolainen,other
+445,Hutchinson,anglo
+446,Kesselring,germanic
+447,Malinowski,slavic
+448,Rothschild,jewish
+449,Echeverria,hispanic
+450,Sorrentino,italian
+451,Higashiyama,east_asian
+452,Witherspoon,anglo
+453,Oppenheimer,germanic
+454,Lewandowski,slavic
+455,Finkelstein,jewish
+456,Santisteban,hispanic
+457,Mastroianni,italian
+458,Charpentier,french
+459,Abdelrahman,arabic
+460,Chakraborty,south_asian
+461,Shaughnessy,other
+462,Wakabayashi,east_asian
+463,Butterworth,anglo
+464,Rockefeller,germanic
+465,Kwiatkowski,slavic
+466,Silberstein,jewish
+467,Covarrubias,hispanic
+468,Castiglione,italian
+469,Montmorency,french
+470,Abdelmoneim,arabic
+471,Subramanian,south_asian
+472,Kristiansen,other
+473,Higashikuni,east_asian
+474,Ravenscroft,anglo
+475,Brandenburg,germanic
+476,Tomaszewski,slavic
+477,Morgenstern,jewish
+478,Zubizarreta,hispanic
+479,Machiavelli,italian
+480,Champollion,french
+481,Abdelfattah,arabic
+482,Viswanathan,south_asian
+483,Johannessen,other
+484,Shimabukuro,east_asian
+485,Bickerstaff,anglo
+486,Lichtenberg,germanic
+487,Chmielewski,slavic
+488,Quintanilla,hispanic
+489,Spallanzani,italian
+490,Robespierre,french
+491,Abdelrazzaq,arabic
+492,Padmanabhan,south_asian
+493,Christensen,other
+494,Chamberlain,anglo
+495,Wittelsbach,germanic
+496,Maciejewski,slavic
+497,Bracamontes,hispanic
+498,Mastrangelo,italian
+499,Montgolfier,french
+500,Benabdallah,arabic
+501,Featherstone,anglo
+502,Wittgenstein,germanic
+503,Andrzejewski,slavic
+504,Kirschenbaum,jewish
+505,Aguirrezabal,hispanic
+506,Michelangelo,italian
+507,Beaumarchais,french
+508,Bhattacharya,south_asian
+509,Papadopoulos,other
+510,Higginbottom,anglo
+511,Hohenzollern,germanic
+512,Konstantinov,slavic
+513,Lichtenstein,jewish
+514,Buonaventura,italian
+515,Courtemanche,french
+516,Balakrishnan,south_asian
+517,Vasilopoulos,other
+518,Cholmondeley,anglo
+519,Stauffenberg,germanic
+520,Rachmaninoff,slavic
+521,Brunelleschi,italian
+522,Vaillancourt,french
+523,Venkataraman,south_asian
+524,Giannopoulos,other
+525,Throckmorton,anglo
+526,Schopenhauer,germanic
+527,Rostropovich,slavic
+528,Mastropietro,italian
+529,Ramachandran,south_asian
+530,Antonopoulos,other
+531,Fotheringham,anglo
+532,Solzhenitsyn,slavic
+533,Squarciafico,italian
+534,Ramakrishnan,south_asian
+535,Stavropoulos,other
+536,Winterbottom,anglo
+537,Montecuccoli,italian
+538,Sundararajan,south_asian
+539,Kontogiannis,other
+540,Stringfellow,anglo
+541,Anantharaman,south_asian
+542,Attenborough,anglo
+543,Vaidyanathan,south_asian
+544,Shuttleworth,anglo
+545,Subrahmanyam,south_asian
+546,Merriweather,anglo
+547,Bandaranaike,south_asian
+548,Wolstenholme,anglo
+549,Samarasinghe,south_asian
+550,Hetherington,anglo
+551,Postlethwaite,anglo
+552,Liechtenstein,germanic
+553,Wojciechowski,slavic
+554,Chateaubriand,french
+555,Chandrasekhar,south_asian
+556,Christodoulou,other
+557,Hollingsworth,anglo
+558,Kaltenbrunner,germanic
+559,Meshcheryakov,slavic
+560,Bellefontaine,french
+561,Radhakrishnan,south_asian
+562,Leatherbarrow,anglo
+563,Parthasarathy,south_asian
+564,Thiruvengadam,south_asian
+565,Muthukrishnan,south_asian
+566,Satyanarayana,south_asian
+567,Venkatachalam,south_asian
+568,Berger-Lorenz,germanic
+569,Romero-Moreno,hispanic
+570,Vargas-Ortega,hispanic
+571,Molina-Campos,hispanic
+572,Marino-Caruso,italian
+573,Guerin-Perrin,french
+574,Najjar-Othman,arabic
+575,Thakur-Pandya,south_asian
+576,Bakker-Visser,other
+577,Porter-Hunter,anglo
+578,Palmer-Gordon,anglo
+579,Franke-Ludwig,germanic
+580,Robles-Santos,hispanic
+581,Correa-Duarte,hispanic
+582,Juarez-Valdez,hispanic
+583,Vitale-Parisi,italian
+584,Masson-Dumont,french
+585,Haidar-Badawi,arabic
+586,Parikh-Mittal,south_asian
+587,Mulder-Dekker,other
+588,Holmes-Knight,anglo
+589,Winter-Kramer,germanic
+590,Sommer-Brandt,germanic
+591,Marini-Barone,italian
+592,Dufour-Giraud,french
+593,Brunet-Arnaud,french
+594,Gerard-Renard,french
+595,Picard-Aubert,french
+596,Ghanem-Khatib,arabic
+597,Bansal-Grover,south_asian
+598,Okafor-Asante,other
+599,Renaud-Leroux,french
+600,Hubert-Fleury,french
+601,Thistlethwaite,anglo
+602,Schwarzenegger,germanic
+603,Kowalczykowski,slavic
+604,Abbracciavento,italian
+605,Gopalakrishnan,south_asian
+606,Konstantinidis,other
+607,Schweinsteiger,germanic
+608,Lakshminarayan,south_asian
+609,Wickramasinghe,south_asian
+610,Socorro Mendez,hispanic
+611,Anatole Bonnet,french
+612,Fabrice Dupont,french
+613,Fatimah Hamdan,arabic
+614,Lakshmi Sarkar,south_asian
+615,Yasunori Kwong,east_asian
+616,Tomohiro Duong,east_asian
+617,Harriet Murray,anglo
+618,Leopold Scholz,germanic
+619,Vladimir Popov,slavic
+620,Yasmine Rashid,arabic
+621,Parvati Mishra,south_asian
+622,Subhash Tiwari,south_asian
+623,Jagdish Pandey,south_asian
+624,Harvinder Bose,south_asian
+625,Balwinder Modi,south_asian
+626,Nobuyuki Inoue,east_asian
+627,Rosemary Clark,anglo
+628,Montague Lewis,anglo
+629,Gerhard Moller,germanic
+630,Wojciech Orlov,slavic
+631,Jaswinder Jain,south_asian
+632,Siddharth Bhat,south_asian
+633,Reginald Young,anglo
+634,Penelope Allen,anglo
+635,Augustus Scott,anglo
+636,Dorothea Green,anglo
+637,Florence Baker,anglo
+638,Jeremiah Adams,anglo
+639,Lancelot Evans,anglo
+640,Ottilie Keller,germanic
+641,Svetlana Belov,slavic
+642,Winifred Price,anglo
+643,Adalbert Braun,germanic
+644,Waltraud Lange,germanic
+645,Ekkehard Kraus,germanic
+646,Konstanze Lutz,germanic
+647,Hannelore Funk,germanic
+648,Dietlinde Popp,germanic
+649,Kunigunde Merz,germanic
+650,Miroslav Titov,slavic
+651,Larochefoucauld,french
+652,Alexandropoulos,other
+653,Panagiotopoulos,other
+654,Estrada-Padilla,hispanic
+655,Marquez-Navarro,hispanic
+656,Fuentes-Rosales,hispanic
+657,Cabrera-Pereira,hispanic
+658,Bianchi-Coppola,italian
+659,Roussel-Mathieu,french
+660,Darwish-Sabbagh,arabic
+661,Dlamini-Khumalo,other
+662,Mokoena-Horvath,other
+663,Almeida-Ribeiro,hispanic
+664,Barbosa-Cardoso,hispanic
+665,Ferraro-Carbone,italian
+666,Riviere-Lemoine,french
+667,Lacroix-Olivier,french
+668,Leclerc-Guillot,french
+669,Boucher-Poirier,french
+670,Prevost-Michaud,french
+671,Barakat-Mubarak,arabic
+672,Lakatos-Doherty,other
+673,Brennan-Cassidy,other
+674,Chauvin-Lemieux,french
+675,Hussein-Baroudi,arabic
+676,Bensaid-Mahfouz,arabic
+677,Mulcahy-Nilsson,other
+678,Larsson-Sjoberg,other
+679,Makinen-Salonen,other
+680,Ozdemir-Erdogan,other
+681,Korkmaz-Huisman,other
+682,Bennani-Montoya,other
+683,Brouwer-Sartori,other
+684,Masahiro Fujita,east_asian
+685,Kazuhiro Fukuda,east_asian
+686,Benjamin Butler,anglo
+687,Ruediger Kohler,germanic
+688,Anastasia Krupa,slavic
+689,Elisheva Mandel,jewish
+690,Concepcion Soto,hispanic
+691,Vittorio Romano,italian
+692,Josselin Girard,french
+693,Priyanka Bhatia,south_asian
+694,Chandrika Mehta,south_asian
+695,Jonathan Barnes,anglo
+696,Margaret Jordan,anglo
+697,Theodore Graham,anglo
+698,Reinhold Kaiser,germanic
+699,Ekaterina Szulc,slavic
+700,Montserrat Cruz,hispanic
+701,Sivaramakrishnan,south_asian
+702,Khadijah Mansour,arabic
+703,Rajendra Kothari,south_asian
+704,Ingeborg Balogun,other
+705,Junichiro Kimura,east_asian
+706,Elizabeth Parker,anglo
+707,Wolfgang Baumann,germanic
+708,Przemyslaw Kania,slavic
+709,Menachem Perlman,jewish
+710,Fernando Salazar,hispanic
+711,Domenico Messina,italian
+712,Bernadin Meunier,french
+713,Nourredine Jaber,arabic
+714,Gurpreet Singhal,south_asian
+715,Torbjorn Adebayo,other
+716,Josephine Morgan,anglo
+717,Katherine Cooper,anglo
+718,Siegfried Kruger,germanic
+719,Bronislava Mucha,slavic
+720,Shoshana Shulman,jewish
+721,Leopoldo Vazquez,hispanic
+722,Raffaele Palumbo,italian
+723,Apolline Barbier,french
+724,Jamaluddin Salem,arabic
+725,Manpreet Gopalan,south_asian
+726,Ragnhild Mandela,other
+727,Frederick Bailey,anglo
+728,Geraldine Howard,anglo
+729,Hildegard Werner,germanic
+730,Zipporah Plotkin,jewish
+731,Yehoshua Fishman,jewish
+732,Remedios Delgado,hispanic
+733,Ludovico Morelli,italian
+734,Clotilde Bernard,french
+735,Abdulrahman Bakr,arabic
+736,Abhishek Koirala,south_asian
+737,Aikaterini Toure,other
+738,Gwendolyn Watson,anglo
+739,Cornelius Brooks,anglo
+740,Brunhilde Krause,germanic
+741,Rigoberto Medina,hispanic
+742,Florencia Castro,hispanic
+743,Wenceslao Guzman,hispanic
+744,Costanza Bellini,italian
+745,Honorine Laurent,french
+746,Salaheddine Nasr,arabic
+747,Dhananjay Khanna,south_asian
+748,Panagiotis Owusu,other
+749,Alexandra Hughes,anglo
+750,Millicent Powell,anglo
+751,Jasinski-Sadowski,slavic
+752,Vasiliev-Korsakov,slavic
+753,Carrillo-Calderon,hispanic
+754,Bautista-Teixeira,hispanic
+755,Rossetti-Palmieri,italian
+756,Lavallee-Papineau,french
+757,Belkacem-Zaghloul,arabic
+758,Rafferty-Monaghan,other
+759,Eriksson-Karlsson,other
+760,Kurosawa-Miyazaki,east_asian
+761,Bernardi-Ferretti,italian
+762,Ruggiero-Visconti,italian
+763,Tremblay-Belanger,french
+764,Bergeron-Bouchard,french
+765,Shaarawi-Qaddoumi,arabic
+766,Lundgren-Sandberg,other
+767,Lindberg-Holmberg,other
+768,Engstrom-Pedersen,other
+769,Virtanen-Korhonen,other
+770,Nieminen-Koskinen,other
+771,Takeuchi-Yokoyama,east_asian
+772,Jarvinen-Lehtonen,other
+773,Tuominen-Rantanen,other
+774,Yildirim-Abubakar,other
+775,Georgiou-Kyriakou,other
+776,Economou-Hoekstra,other
+777,Molenaar-Schouten,other
+778,Dijkstra-Hendriks,other
+779,Hirayama-Kitagawa,east_asian
+780,Ichikawa-Hatoyama,east_asian
+781,Tokugawa-Kawabata,east_asian
+782,Nakasone-Beaulieu,other
+783,Nathaniel Perkins,anglo
+784,Friedhelm Gunther,germanic
+785,Konstantin Wrobel,slavic
+786,Mordechai Epstein,jewish
+787,Esperanza Jimenez,hispanic
+788,Francesca Ferrara,italian
+789,Theophile Clement,french
+790,Nasreddine Khoury,arabic
+791,Saraswati Rathore,south_asian
+792,Evangelos Wanjiru,other
+793,Shinichiro Sasaki,east_asian
+794,Evangeline Turner,anglo
+795,Gottfried Winkler,germanic
+796,Aleksandra Rimsky,slavic
+797,Guadalupe Herrera,hispanic
+798,Bartolome Aguilar,hispanic
+799,Antonella Gentile,italian
+800,Gwenaelle Lemaire,french
+801,Langlois-Montpetit,french
+802,Hennessy-Vermeulen,other
+803,Hasegawa-Mizoguchi,east_asian
+804,Szewczyk-Mendeleev,slavic
+805,Ivanov-Kudryavtsev,slavic
+806,Petrov-Ovchinnikov,slavic
+807,Volkov-Kalashnikov,slavic
+808,Pavlov-Shcherbakov,slavic
+809,Nussbaum-Oppenheim,jewish
+810,Alvarado-Mondragon,hispanic
+811,Lombardo-Colonnese,italian
+812,Delahaye-Desmarais,french
+813,Kozlov-Kozhevnikov,slavic
+814,Zhukov-Maslennikov,slavic
+815,Karpov-Seliverstov,slavic
+816,Krylov-Ovsyannikov,slavic
+817,Gromov-Tchaikovsky,slavic
+818,Markov-Lobachevsky,slavic
+819,Halperin-Rappaport,jewish
+820,Abramson-Schechter,jewish
+821,Ackerman-Spielberg,jewish
+822,Birnbaum-Greenspan,jewish
+823,Goldfarb-Applebaum,jewish
+824,Weinberg-Bloomberg,jewish
+825,Ginsberg-Kissinger,jewish
+826,Weisberg-Yudkowsky,jewish
+827,Sandler-Steinhardt,jewish
+828,Feldman-Blumenthal,jewish
+829,Ostermann-Murakami,other
+830,Pietrzak-Shneerson,other
+831,Kornbluth-Sakamoto,other
+832,Sandoval-Grossberg,other
+833,Francesco Cattaneo,italian
+834,Guillaume Boisvert,french
+835,Abdelilah Shalhoub,arabic
+836,Sukhwinder Chauhan,south_asian
+837,Adebowale Gilligan,other
+838,Toshiyuki Fujiwara,east_asian
+839,Clementine Kennedy,anglo
+840,Maximilian Schwarz,germanic
+841,Magdalena Zalewski,slavic
+842,Guillermo Espinoza,hispanic
+843,Sebastian Figueroa,hispanic
+844,Gabriella Giuliani,italian
+845,Benedicte Dufresne,french
+846,Shahrazad Jumblatt,arabic
+847,Raghavendra Kapoor,south_asian
+848,Dimitrios Donoghue,other
+849,Hidetoshi Nakagawa,east_asian
+850,Bernadette Hawkins,anglo
+851,Stewart-Whittingham,anglo
+852,Klinsmann-Grunewald,germanic
+853,Pawlowski-Czarnecki,slavic
+854,Lefkowitz-Moskowitz,jewish
+855,Cervantes-Velasquez,hispanic
+856,Malatesta-Bonaparte,italian
+857,Pelletier-Boulanger,french
+858,Bencheikh-Benkirane,arabic
+859,Hariharan-Shanmugam,south_asian
+860,Heikkinen-Ramaphosa,other
+861,Yamashita-Nishimura,east_asian
+862,Bennett-Wilberforce,anglo
+863,Leonhardt-Burkhardt,germanic
+864,Kucharski-Chojnacki,slavic
+865,Eisenberg-Greenberg,jewish
+866,Benavides-Magalhaes,hispanic
+867,Mazzarino-Antonioni,italian
+868,Delacroix-Lafayette,french
+869,Rajapaksa-Ekanayake,south_asian
+870,Ganguly-Jayawardene,south_asian
+871,Coulibaly-Oluwaseun,other
+872,Tsukamoto-Kawaguchi,east_asian
+873,Russell-Tillinghast,anglo
+874,Eberhardt-Reinhardt,germanic
+875,Blaszczyk-Kolodziej,slavic
+876,Lipschitz-Pomerantz,jewish
+877,Cannavaro-Pavarotti,italian
+878,Garibaldi-Buonocore,italian
+879,Beauchamp-Rochefort,french
+880,Trivedi-Amarasinghe,south_asian
+881,Papadakis-Dimitriou,other
+882,Simmons-Copperfield,anglo
+883,Wallace-Braithwaite,anglo
+884,Bernhardt-Lindemann,germanic
+885,Schafer-Falkenstein,germanic
+886,Gerasimov-Afanasiev,slavic
+887,Rosenblum-Wasserman,jewish
+888,Fontana-Bongiovanni,italian
+889,Santoro-Lamborghini,italian
+890,Clairmont-Malenfant,french
+891,Neumann-Steinberger,germanic
+892,Smirnov-Szczepanski,slavic
+893,Novikov-Kazmierczak,slavic
+894,Fedorov-Szczepaniak,slavic
+895,Morozov-Leszczynski,slavic
+896,Lebedev-Mikolajczyk,slavic
+897,Semenov-Kaczmarczyk,slavic
+898,Edelstein-Feinstein,jewish
+899,Mariani-Ghirlandaio,italian
+900,Rinaldi-Sanseverino,italian
+901,Montanari-Castellano,italian
+902,Gauthier-Chastellain,french
+903,Chowdhury-Abeysekera,south_asian
+904,Sengupta-Raghunathan,south_asian
+905,Bjornsson-Varoufakis,other
+906,Thompson-Glendinning,anglo
+907,Feuerbach-Muhlhauser,germanic
+908,Hartmann-Weissmuller,germanic
+909,Rutkowski-Kolesnikov,slavic
+910,Bernstein-Schoenfeld,jewish
+911,Maldonado-Valladares,hispanic
+912,Battaglia-Giacomazzi,italian
+913,Marchand-Grandpierre,french
+914,Dasgupta-Jagannathan,south_asian
+915,Krishnan-Rajagopalan,south_asian
+916,McCarthy-Karjalainen,other
+917,Schubert-Baumgartner,germanic
+918,Albrecht-Hildebrandt,germanic
+919,Bergmann-Niedermayer,germanic
+920,Marciniak-Rumyantsev,slavic
+921,Lieberman-Mandelstam,jewish
+922,Dominguez-Santamaria,hispanic
+923,Scarlatti-Santangelo,italian
+924,Gaillard-Archambault,french
+925,Seshadri-Gunawardena,south_asian
+926,Adhikari-Dissanayake,south_asian
+927,Flanagan-Theodorakis,other
+928,Kirchner-Hochstetter,germanic
+929,Buchholz-Schwarzkopf,germanic
+930,Gebhardt-Beckenbauer,germanic
+931,Kuznetsov-Chernyshev,slavic
+932,Silverman-Wiesenthal,jewish
+933,Carvalho-Albuquerque,hispanic
+934,Boccaccio-Caracciolo,italian
+935,Maillard-Charbonneau,french
+936,Bhandari-Weerasinghe,south_asian
+937,Pokharel-Karunaratne,south_asian
+938,Moriarty-Kazantzakis,other
+939,Waldmann-Wallenstein,germanic
+940,Edelmann-Hammerstein,germanic
+941,Mikhailov-Kupriyanov,slavic
+942,Zielinski-Tikhomirov,slavic
+943,Berkowitz-Zuckerberg,jewish
+944,Ferreira-Vasconcelos,hispanic
+945,Benvenuto-Fioravanti,italian
+946,Szymanski-Kharitonov,slavic
+947,Dabrowski-Alexandrov,slavic
+948,Kozlowski-Brzezinski,slavic
+949,Jankowski-Dostoevsky,slavic
+950,Grabowski-Stravinsky,slavic
+951,Wainwright-Cartwright,anglo
+952,Longbottom-Ramsbottom,anglo
+953,Oberhauser-Rummenigge,germanic
+954,Wlodarczyk-Sokolowski,slavic
+955,Teitelbaum-Himmelfarb,jewish
+956,Bustamante-Valderrama,hispanic
+957,Montalbano-Buonarroti,italian
+958,Mitterrand-Desrochers,french
+959,Abdelkader-Abdelhamid,arabic
+960,Kuppuswamy-Jayasuriya,south_asian
+961,Nikolaidis-Karamanlis,other
+962,Sutherland-Macpherson,anglo
+963,Farnsworth-Pennington,anglo
+964,Falkenhayn-Engelhardt,germanic
+965,Kalinowski-Wilczynski,slavic
+966,Lowenstein-Tannenbaum,jewish
+967,Villanueva-Barrientos,hispanic
+968,Pignatelli-Bevilacqua,italian
+969,Desjardins-Lamontagne,french
+970,Abdelmalek-Abdulrahim,arabic
+971,Ranasinghe-Senanayake,south_asian
+972,Athanasiou-Mitsotakis,other
+973,Rockingham-Cottingham,anglo
+974,Kettlewell-Rutherford,anglo
+975,Achterberg-Kronenberg,germanic
+976,Przybylski-Ciesielski,slavic
+977,Blumenfeld-Eisenstadt,jewish
+978,Altamirano-Etxeberria,hispanic
+979,Giacometti-Pirandello,italian
+980,Rochambeau-Lefrancois,french
+981,Abdelwahab-Abdelghani,arabic
+982,Wijesinghe-Gunasekara,south_asian
+983,Rasmussen-Thorvaldsen,other
+984,Blackwood-Fairweather,anglo
+985,Hemingway-Fitzwilliam,anglo
+986,Sonnenfeld-Rothenberg,germanic
+987,Wesolowski-Czajkowski,slavic
+988,Katzenberg-Lindenbaum,jewish
+989,Larrazabal-Goicoechea,hispanic
+990,Bertolucci-Caravaggio,italian
+991,Desrosiers-Lachapelle,french
+992,Abdeljalil-Abdessalam,arabic
+993,Natarajan-Ranganathan,south_asian
+994,Jorgensen-Gudmundsson,other
+995,Wadsworth-Abercrombie,anglo
+996,Robinson-Gainsborough,anglo
+997,Schoenberg-Hochenwald,germanic
+998,Zakrzewski-Vinogradov,slavic
+999,Pearlstein-Rosenzweig,jewish
+1000,Villalobos-Montenegro,hispanic

@@ -1,0 +1,25 @@
+case_id,query,length,case_type,expected_match,variant_type,rationale
+L02-01,Ly,2,positive,Li,transliteration,Common romanization of the same Chinese surname
+L02-02,Oz,2,negative,,unrelated,No list name sounds like oz
+L03-01,Kym,3,positive,Kim,spelling_variant,Alternate spelling with the same sound
+L03-02,Sha,3,positive,Shah,phonetic_respelling,Silent final h dropped
+L03-03,Pax,3,negative,,unrelated,No list name sounds like pax
+L05-01,Kohen,5,positive,Cohen,spelling_variant,Established variant of the same surname
+L05-02,Smyth,5,positive,Smith,spelling_variant,Established variant of the same surname
+L05-03,Shmit,5,positive,Schmidt,phonetic_respelling,Spelled the way it sounds
+L06-01,Brandt,6,negative,,unrelated,No list name sounds like brandt
+L07-01,Kathryn,7,positive,Catherine,spelling_variant,Common variant of the same given name
+L07-02,Okonkwo,7,negative,,unrelated,No list name sounds like okonkwo
+L08-01,Muhammad,8,positive,Mohamed,transliteration,Different romanization of the same Arabic name
+L08-02,Kovalski,8,positive,Kowalski,transliteration,Polish w is pronounced v
+L08-03,Smithers,8,negative,,look_alike,Extra syllable makes it a different name
+L09-01,Rodrigues,9,positive,Rodriguez,spelling_variant,Portuguese spelling of the same surname
+L09-02,Kristofer,9,positive,Christopher,phonetic_respelling,Spelled the way it sounds
+L09-03,Kowalczyk,9,negative,,look_alike,Shares a prefix but ends in chik not ski
+L10-01,Rabinovitz,10,positive,Rabinowitz,transliteration,Same surname with v for w
+L10-02,Chaikovsky,10,positive,Tchaikovsky,transliteration,English romanization of the same Russian name
+L12-01,Garcia Lopes,12,positive,Garcia-Lopez,spelling_variant,Same compound with Portuguese Lopes
+L15-01,Schwartzenegger,15,positive,Schwarzenegger,spelling_variant,Common misspelling with the same sound
+L19-01,Hernandez Rodriguez,19,negative,,look_alike,Shares words with list names but is a different person
+L19-02,Rodrigues-Hernandes,19,positive,Rodriguez-Hernandez,spelling_variant,Portuguese spellings of both parts
+L21-01,Vladislav Chaikovskiy,21,positive,Vladislav Tchaikovsky,transliteration,Alternate romanization of the same Russian name
